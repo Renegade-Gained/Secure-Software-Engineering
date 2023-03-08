@@ -2,6 +2,8 @@
 
 Secure File Storage on Cloud using Hybrid Cryptography
 
+This project was developed on Windows, programmed in Java, using Visual Studio Code, Maven, and Google Cloud Platform services.
+
 # Steps to Recreate Project
 1. Install Visual Studio Code
 2. Ensure the following items are installed in the Visual Studio Code Extension Explorer:
@@ -25,3 +27,7 @@ Secure File Storage on Cloud using Hybrid Cryptography
 7. If keys have not been generated yet, or cleared from project before running, make sure to run the code to generate them.
 
 This project was developed on Windows, programmed in Java, using Visual Studio Code, Maven, and Google Cloud Platform services.
+
+# Requirements
+1. Store files in the cloud
+2. Use hybrid cryptography
